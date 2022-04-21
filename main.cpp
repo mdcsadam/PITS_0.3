@@ -1,5 +1,5 @@
 // Programming I, Final Project
-// PIT System - Production Edition
+// PIT System - Production Edition v2
 // Author: Adam Kittilson
 // 
 /* Pet Inventory Tracking System. This application will undoubtedly be highly subject to change.
