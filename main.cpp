@@ -1,5 +1,5 @@
 // Programming I, Final Project
-// PIT System - Development Edition
+// PIT System - Production Edition
 // Author: Adam Kittilson
 // 
 /* Pet Inventory Tracking System. This application will undoubtedly be highly subject to change.
@@ -410,7 +410,7 @@ int main() {
   cout << "Arrays loaded, the inventory count is: " << invCount << ".\n";
 	}
   bool exitProg = false; //flag for continued execution. When true, the do loop will terminate and the program will exit
-  cout << "\n\n\n\n\t\tWelcome to the Pet Inventory Tracking System: Development Edition!\n";
+  cout << "\n\n\n\n\t\tWelcome to the Pet Inventory Tracking System: Production Edition!\n";
   cout << "\nPlease enter your name: \n";
   getline(cin, first_name);
   do {
